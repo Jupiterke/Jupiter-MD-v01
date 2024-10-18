@@ -1,0 +1,50 @@
+{
+    "__JSON__": true,
+    "AUTHOR": "Jupiter_Tech",
+    "theme": "Jupiter-Md v01",
+    "LANGUAGE": "English",
+    "LANGCODE": "en",
+    "STRINGS": {
+        "updater": {
+            "UPDATE": "*You're all set with your bot!*",
+            "NEW_UPDATE": "*There's a new update available!*\n\n*Changes:*\n",
+            "UPDATED_LOCAL": "*Update completed successfully!*"
+        },
+        "global": {
+            "botName": "Jupiter-Md v01",
+            "body": "WhatsApp User Bot",
+            "greet2": "Thanks to Jupiter Tech",
+            "pic1": "https://example.com/image.jpg",
+            "greet": "Hello!",
+            "dotbody": "I'm here to assist you.",
+            "emojii": "🚀",
+            "promote": "Admin role assigned to Jupiter MD v01",
+            "pmallow": "*Hi, I'm Jupiter Bot.\nYou have been blocked for spamming.\n\n_Powered by Jupiter Tech_",
+            "pmwarn": "✋Hi*\nPlease do not spam, or I will block you. _You have ${checkPermit.times} warning(s)._ \n\nJoin our support channel: \nhttps://example.com/channel\n\n*Powered by Jupiter MD*",
+            "permited": "Hello, you are now permitted to message.\n\n_Powered by YourName_",
+            "revoked": "*Hello, your permission to message has been revoked.*\n\n_Powered by Jupiter MD_",
+            "demote": "Uhh, admin role has been removed.",
+            "antlink": "Link detected.\n*Goodbye, pirate!*",
+            "session": "\n*This is your session.json; keep it safe and store it properly.*\n_Now upload this JSON file to your forked repo_\nConnect your repo to Heroku and *deploy the branch* for the bot to run continuously.\n\n*Powered by Jupiter MD*",
+            "mention": "Please mention my owner.",
+            "title": "Jupiter-Md v01",
+            "footer": "©²⁰²⁵ Jupiter Tech \n https://github.com/jupiterke/Jupiter-MD-v01/channel",
+            "by": "Made by: Jupiter Tech",
+            "chat_desc": "Available options*: 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
+            "success": "Done ✓",
+            "dot": "Hi, did you mean *-help?*\nJust... don't bother me while I'm eating.",
+            "couple_male": "*I'm sure I can live without your help!*",
+            "couple_female": "*I'm sure I can live without your help!*",
+            "admin": "Jupiter Tech ⚠️!",
+            "botAdmin": "Bot by Jupiter Tech❗",
+            "owner": "Owner: Jupiter Tech ⚠️",
+            "group": "Group: Jupiter Tech❗",
+            "private": "Private: Jupiter Tech⚠️",
+            "bot": "Bot: Jupiter Tech⚠️",
+            "wait": "©²⁰²⁵ Jupiter Tech✅"
+        },
+        "error": {
+            "text": "*You may regret trying to manipulate me.\nNow go fix this error.*"
+        }
+    }
+}
